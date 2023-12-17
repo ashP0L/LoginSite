@@ -3,12 +3,9 @@
 	<head>
 	<title>PHP Test</title>
 	</head>
-<body>
-<?p
-echo "Hello, world!";
-print "Hello, this is a print statement.";
-?>
-</body>
+	<body>
+		<?php echo '<p>Hello World</p>'; ?>
+	</body>
 
 </html>
 
